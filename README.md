@@ -14,6 +14,9 @@ Equipped with the Nordic nRF9160 System in Package (SiP), it supports LTE-M, NB-
 ## Built-In Battery Charging, Monitoring and Energy-Harvesting
 ‌Stratus has built-in battery charging, monitoring, and energy-harvesting circuitry which makes it easier to connect to and recharge the Li-Po battery, creating fully energy-autonomous applications. In addition, Stratus incorporates an accelerometer as well as a temperature & humidity sensor for detecting both movement and sensing the surrounding environment, right out of the box. Finally, Stratus provides 26 mixed-signal GPIOs for interfacing with external sensors, actuators, and other electronics.
 
+## Pinouts
+![Conexio Stratus](conexio-stratus-dev-kit/images/conexio-stratus-pinouts.png)
+
 ## Features & Specifications
 
 **MCU**: Nordic nRF9160 Microcontroller with ARM Cortex M33
