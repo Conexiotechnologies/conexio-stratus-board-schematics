@@ -1,5 +1,5 @@
-# conexio-stratus-board-schematics
-Here you will find the schematic designs for the Conexio Stratus IoT dev kit and the shield.
+# conexio-stratus (nRF9160)-board-schematics
+Here you will find the schematic designs for the Conexio Stratus IoT dev kit based on nRf9160 and the associated shield.
 A detailed description of the pin mapping can be found in stratus_pinouts.pdf.
 
 
