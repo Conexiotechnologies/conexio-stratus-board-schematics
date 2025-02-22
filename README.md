@@ -1,4 +1,4 @@
-# Conexio Stratus Board Schematics
+# Conexio Stratus Cellular Board Design
 Here you will find the schematic designs for the Conexio Stratus IoT dev kit based on nRF91xx series and the associated shields and the expansion dock.
 A detailed description of the pin mapping can be found in each specific board directory.
 
@@ -98,6 +98,8 @@ Start your product development with our Expansion Dock for Stratus Pro fast and 
 
 Conexio Stratus devices and accessories can be purchased directly from our [online store](https://conexiotech.com/shop/).
 
+Please contact [info@conexiotech.com](mailto:info@conexiotech.com) if you would like to arrange help with your manufacturing and custom PCB design based on Stratus Pro platform. 
+
 ## Hardware Lineage and License
 
-This board is released under the [CERN OHL-P (v2) license](https://opensource.org/license/cern-ohl-p). SeevLICENSEvfor more info.
+This board is released under the [CERN OHL-P (v2) license](https://opensource.org/license/cern-ohl-p). See LICENSE for more info.
