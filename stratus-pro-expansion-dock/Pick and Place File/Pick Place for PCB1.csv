@@ -1,0 +1,29 @@
+Altium Designer Pick and Place Locations
+D:\Embeddronics\Freelancing\PCB Designs\Conexio_Technologies\Stratus Pro Expansion Dock\Altium Design Files\Project Outputs for Expansion Doc\Pick Place for PCB1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       09/10/24
+Time:       19:49
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"QWIIC1","C2764183","BottomLayer","C2764183","0.0000","0.0000","90",""
+"QWIIC","C2764183","BottomLayer","C2764183","0.0000","0.0000","90",""
+"J3","110990037","TopLayer","FP-110990037-MFG","55.1870","103.3780","270","110990037 Grove Female Header - DIP-4P-2.0mm-90D-10 Pcs"
+"J2","110990037","TopLayer","FP-110990037-MFG","55.1870","92.4560","270","110990037 Grove Female Header - DIP-4P-2.0mm-90D-10 Pcs"
+"BAT","L200HY-W-2A","TopLayer","CONN-TH_L200HY-W-2A","67.0720","106.2990","180",""
+"P8","Header 7","TopLayer","HDR1X7","131.9530","54.8640","270","Header, 7-Pin"
+"P6","Header 7","TopLayer","HDR1X7","110.6170","54.7370","90","Header, 7-Pin"
+"P7","Header 8X2A","TopLayer","HDR2X8_CEN","59.9440","55.8800","270","Header, 8-Pin, Dual row"
+"X2","AFC10-S04QCA-00","TopLayer","CONN-SMD_AFC10-S04QCA-00","50.4191","76.8351","270",""
+"X1","AFC10-S04QCA-00","TopLayer","CONN-SMD_AFC10-S04QCA-00","50.4191","83.6931","270",""
+"PV","L200HY-W-2A","TopLayer","CONN-TH_L200HY-W-2A","60.5790","106.2990","180",""
+"SW1","MSK12CO2-SZ","TopLayer","SW-TH_MSK12C02","74.7120","109.1432","180",""
+"P3","ESP32 S3 XIAO","TopLayer","HDR2X7","121.2850","54.8640","270",""
+"P2","Header 16X2","TopLayer","HDR2X16","102.4890","68.8340","270","Header, 16-Pin, Dual row"
+"P1","Header 20X2","TopLayer","HDR2X20","79.6290","73.9140","270","Header, 20-Pin, Dual row"
+"J1","10056847-101LF","TopLayer","CONN_10056847-101LF_AMP","115.0620","73.2743","180","No Description Available"
