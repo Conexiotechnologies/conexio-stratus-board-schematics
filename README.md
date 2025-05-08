@@ -2,7 +2,7 @@
 Here you will find the schematic designs for the Conexio Stratus IoT dev kit based on nRF91xx series and the associated shields and the expansion dock.
 A detailed description of the pin mapping can be found in each specific board directory.
 
-## Conexio Stratus Pro Series
+## nRF9151 Conexio Stratus Pro Series
 
 ![Stratus Pro - nRF9161/nRF9151](conexio-stratus-pro-nRF9151/images/stratus-pro-nrf9151-topview.png)
 
