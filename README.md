@@ -103,3 +103,8 @@ Please contact [info@conexiotech.com](mailto:info@conexiotech.com) if you would 
 ## Hardware Lineage and License
 
 This board is released under the [CERN OHL-P (v2) license](https://opensource.org/license/cern-ohl-p). See LICENSE for more info.
+
+
+Copyright (c) 2025 Conexio Technologies, Inc.
+
+
