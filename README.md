@@ -100,10 +100,6 @@ Conexio Stratus devices and accessories can be purchased directly from our [onli
 
 Please contact [info@conexiotech.com](mailto:info@conexiotech.com) if you would like to arrange help with your manufacturing and custom PCB design based on Stratus Pro platform. 
 
-## Hardware Lineage and License
-
-This board is released under the [CERN OHL-P (v2) license](https://opensource.org/license/cern-ohl-p). See LICENSE for more info.
-
 
 Copyright (c) 2025 Conexio Technologies, Inc.
 
